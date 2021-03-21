@@ -1,5 +1,10 @@
 # Prerequisites
 *.d
+build/Release
+codegentemp
+Generated_Source
+CortexM4
+CortexM0P
 
 # Object files
 *.o
